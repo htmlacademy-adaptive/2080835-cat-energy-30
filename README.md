@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Егор Киселев](https://up.htmlacademy.ru/adaptive/30/user/2080835).
-* Наставник: `Неизвестно`.
+* Наставник: `Ирина Малиновская https://htmlacademy.ru/profile/irina-malinovskaya`.
 
 ---
 
